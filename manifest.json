@@ -1,7 +1,7 @@
 {
   "name": "Poppy Playtime Education Server",
   "short_name": "PoppyEDUServer",
-  "start_url": "https://poppyedufangame.mooo.com",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ff0000",
   "theme_color": "#ff0000",
